@@ -1,0 +1,9 @@
+Obsługiwane monitory: 
+  16:9   | 16:10
+
+Działanie:
+Po kliknięciu w przycki aplikacja otwiera nowe okno przeglądarki z daną stroną. NIE NALEŻY RUSZAĆ WTEDY KURSOREM MYSZY, ponieważ aplikacja zczytuje jego położenie i dla odpowiedniej rozdzielczości ustawia jego pozycje na przycisku "Open Skype Meeting APP". Po kliknięciu przycisku w oknie dialogowym, aplikacja zamyka nowo otworzoną witrynę
+
+Aplikacja zczytuję też datę, dlatego nie dziwcie się czemu nie działa w dni, w które nie mamy wykładów
+
+Jak ktoś ma monitor 21:9 to też fajnie jakby się podzielił opinią jak aplikacja działa
